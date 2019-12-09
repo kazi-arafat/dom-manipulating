@@ -4,7 +4,7 @@
 2. Tree of nodes/elements created by the browser.
 3. Object oriented reprsentation. Each node has its own properties and methods.
 
-![dom_image]('images/dom.png')
+![dom_image](images/dom.png)
 
 4. Browser provides top level object named **window** object, which is the browser itself.
 
